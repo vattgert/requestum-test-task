@@ -4,8 +4,8 @@ Test task for Requestum company
 
 
 ## Usage
-Run
+Command is used to lauch tests
 ```javascript
 npm test
 ```
-to launch tests
+
