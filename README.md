@@ -3,4 +3,8 @@ Test task for Requestum company
 
 
 
-Run "npm test" command to lauch tests
+## Usage
+
+```javascript
+npm test
+```
